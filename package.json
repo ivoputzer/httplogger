@@ -1,6 +1,6 @@
 {
   "name": "httplogger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "http request logger",
   "main": "index.js",
   "bin": {
@@ -12,8 +12,7 @@
   "dependencies": {
     "morgan": "^1.7.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ivoputzer/httplogger.git"
