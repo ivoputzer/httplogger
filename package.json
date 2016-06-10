@@ -1,0 +1,36 @@
+{
+  "name": "httplogger",
+  "version": "0.0.0",
+  "description": "http request logger",
+  "main": "index.js",
+  "bin": {
+    "httplogger": "bin/httplogger"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "morgan": "^1.7.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoputzer/httplogger.git"
+  },
+  "keywords": [
+    "http",
+    "log",
+    "logger",
+    "request",
+    "logs",
+    "https"
+  ],
+  "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivoputzer/httplogger/issues"
+  },
+  "homepage": "https://github.com/ivoputzer/httplogger#readme"
+}
